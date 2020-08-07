@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "318281364429",
+    "firebase_url": "https://plumbing--drain-app.firebaseio.com",
+    "project_id": "plumbing--drain-app",
+    "storage_bucket": "plumbing--drain-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318281364429:android:70b101a5bb42cee0638a84",
+        "android_client_info": {
+          "package_name": "com.example.plumbing_drain"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "318281364429-msg7mtm485tii7u29efc74h7aggjetrc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnK94laR0X4V6kJ3BoCfC47f8TzsozP2w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "318281364429-msg7mtm485tii7u29efc74h7aggjetrc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "318281364429-bgisb23uq1gt6cgc980raunqmj5fde3o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kodnest.helloWord"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318281364429:android:accf041bd7025d7e638a84",
+        "android_client_info": {
+          "package_name": "com.kodnest.plumbing_drain_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "318281364429-msg7mtm485tii7u29efc74h7aggjetrc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnK94laR0X4V6kJ3BoCfC47f8TzsozP2w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "318281364429-msg7mtm485tii7u29efc74h7aggjetrc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "318281364429-bgisb23uq1gt6cgc980raunqmj5fde3o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kodnest.helloWord"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
